@@ -1,0 +1,19 @@
+# Project exclude paths
+/.gradle/
+/Cinema Room Manager/task/build/
+/Cinema Room Manager/task/out/
+/Cinema Room Manager/task/out/production/classes/
+/Problems/Individual taxes/out/
+/Problems/Individual taxes/out/production/classes/
+/Problems/Out of bounds_/out/
+/Problems/Out of bounds_/out/production/classes/
+/Problems/Sum array elements greater than a value/out/
+/Problems/Sum array elements greater than a value/out/production/classes/
+/Problems/The index of the first max in an array/out/
+/Problems/The index of the first max in an array/out/production/classes/
+/Problems/The longest ascending sequence/out/
+/Problems/The longest ascending sequence/out/production/classes/
+/Problems/The minimum value of an array/out/
+/Problems/The minimum value of an array/out/production/classes/
+/Problems/Triples/out/
+/Problems/Triples/out/production/classes/
